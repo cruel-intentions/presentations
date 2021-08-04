@@ -100,7 +100,6 @@ if __name__ == "__main__":
     presentation_def = toml.load(sys.argv[1])
     position = 0
     presentation_size = len(presentation_def['slides']) -1
-    change = True
     frame = default_screen()
     cv2.imshow('Frame', frame)
     while True:
