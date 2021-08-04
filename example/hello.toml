@@ -1,0 +1,37 @@
+[[slides]]
+[[slides.frames]]
+color = '#000000'
+
+
+[[slides]]
+[[slides.frames]]
+file = './0.png'
+
+
+[[slides]]
+[[slides.frames]]
+text = 'some text'
+
+
+[[slides]]
+[[slides.frames]]
+camera = 0
+
+
+[[slides]]
+[[slides.frames]]
+color = '#000000'
+
+[[slides.frames]]
+file = './0.png'
+
+[[slides.frames]]
+camera = 0
+position = [-30, -30]
+size = [50, 50]
+
+[[slides.frames]]
+text = 'some text'
+textColor = "#000000"
+position = [5, -5]
+size = [10, 10]

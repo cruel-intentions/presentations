@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "seo_presentation"
+version = "0.1.0"
+description = ""
+authors = ["hugosenari <hugosenari@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-camera = "^0.10.11"
+opencv-handtracking = "^0.1"
+opencv-python = "^4.5.3"
+mediapipe = "^0.8.6"
+cvzone = "^1.4.1"
+PyAutoGUI = "^0.9.53"
+toml = "^0.10.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
