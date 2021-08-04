@@ -1,11 +1,11 @@
-# presentations
+# Presentations
 opencv slide presentation
 
-## usage
+## Usage
 
->> poetry install
->>
->> poetry run python -m presentation example/hello.toml
+> poetry install
+>
+> poetry run python -m presentation example/hello.toml
 
 Use `a` and `d` to navegate
 
