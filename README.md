@@ -5,7 +5,7 @@ opencv slide presentation
 
 ```sh
 poetry install
-poetry run python -m presentation example/hello.toml
+poetry run python -m presentation example/hello.yaml
 ```
 
 Use `a` and `d` to navegate

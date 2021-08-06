@@ -1,0 +1,30 @@
+slides:
+  - frames:
+      - color: "#000000"
+  - frames:
+      - file: "./0.png"
+  - frames:
+      - text: some text
+        position: 
+          - 50
+          - 50
+  - frames:
+      - camera: 0
+  - frames:
+    - color: "#000000"
+    - file: "./0.png"
+    - camera: 0
+      position: 
+        - -30
+        - -30
+      size:
+        - 50
+        - 50
+    - text: some text
+      position:
+        - 40
+        - -40
+      size:
+        - 10
+        - 10
+      textColor: "#FFEEDD"
